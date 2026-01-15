@@ -6,6 +6,7 @@ graphene
 graphql_server==3.0.0b7
 parse-accept-language
 pydantic>=2.0
+pyjwt
 python-multipart
 typing-extensions
 ujson
